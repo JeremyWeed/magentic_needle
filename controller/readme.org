@@ -1,0 +1,12 @@
+* Magnetic Needle Stuff
+** Python/Arduino Controller
+   It's in the =controller= folder.
+   To run it, you'll need to install =pygame= and use Python 3.
+   Just do:
+
+   #+BEGIN_SRC bash
+   python controller.py
+   #+END_SRC
+
+   The Arduino should still be running the software, but you can compile
+   the =.ino= file if you need to reupload it
