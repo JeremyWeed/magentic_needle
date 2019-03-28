@@ -2,7 +2,8 @@
 ** Python/Arduino Controller
    It's in the =controller= folder.
    To run it, you'll need to install =pygame= and use Python 3.
-   Just do:
+
+   Just call:
 
    #+BEGIN_SRC bash
    python controller.py
