@@ -1,7 +1,7 @@
 * Magnetic Needle Stuff
 ** Python/Arduino Controller
    It's in the =controller= folder.
-   To run it, you'll need to install =pygame= and use Python 3.
+   To run it, you'll need to install =pygame= and =pyserial= and use Python 3.
 
    Just call:
 
